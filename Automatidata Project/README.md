@@ -4,6 +4,6 @@ This project was done as final milestones for each of the six courses in Google'
 
 The course required a planning, analyze, contruct and execute strategy document (PACE) and executive summaries to communicate project findings/next steps.
 
-The code, analysis, visualizations and modeling is included in five jupiter notebooks.  Each course builds on the prior one.
+The code, analysis, visualizations and modeling are included in five jupiter notebooks.  Each course builds on the prior one.
 
 
